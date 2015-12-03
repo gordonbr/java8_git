@@ -5,6 +5,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * Test java8 stream api
+ * @author virtuser
+ *
+ */
 public class ListIterator {
 	
 	
