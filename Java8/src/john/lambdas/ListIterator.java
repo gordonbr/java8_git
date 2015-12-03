@@ -12,7 +12,9 @@ import java.util.stream.Collectors;
  */
 public class ListIterator {
 	
-	
+	/**
+	* A little main makes no one harm
+	*/
 	public static void main(String[] args) {
 		final List<String> names = Arrays.asList("John", "Michely", "Caio", "Bia");
 		
